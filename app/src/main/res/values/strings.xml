@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">menu_app</string>
+    <string name="settings">Settings</string>
+    <string name="share">share</string>
+    <string name="sudio">Sudio</string>
+    <string name="signin">SignIn</string>
+    <string name="SignOut">SignOut</string>
+</resources>

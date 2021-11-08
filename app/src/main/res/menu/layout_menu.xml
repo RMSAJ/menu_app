@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:id="@+id/settings"
+          android:title="@string/settings"
+          android:icon="@drawable/ic_baseline_menu_24"
+            app:showAsAction="never"
+        />
+
+    <item android:id="@+id/studio"
+          android:title="@string/sudio"
+          android:icon="@drawable/ic_baseline_menu_24"
+            app:showAsAction="never"
+        />
+
+
+    <item android:id="@+id/singIn"
+          android:title="SignIn"
+          android:icon="@drawable/ic_baseline_menu_24"
+            app:showAsAction="never"
+        />
+
+
+    <item
+        android:id="@+id/shareIcon"
+        android:title="@string/share"
+        android:icon="@drawable/ic_baseline_share_24"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/action_image"
+        android:title="getimage"
+        android:icon="@drawable/ic_baseline_add_photo_alternate_24"
+        app:showAsAction="ifRoom"/>
+
+
+</menu>
